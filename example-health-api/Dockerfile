@@ -1,4 +1,4 @@
-# 1. Package the application using a maven-based builder image
+ 1. Package the application using a maven-based builder image
 
 FROM maven:3.6-jdk-8 as builder
 
